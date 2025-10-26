@@ -24,3 +24,5 @@ class Solution:
         return min_operations
 ```
 SOLVED
+Time Complexity: O(n)
+Space Complexity: O(1)
