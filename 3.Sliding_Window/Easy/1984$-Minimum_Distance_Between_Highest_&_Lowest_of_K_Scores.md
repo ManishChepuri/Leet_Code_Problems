@@ -22,3 +22,4 @@ class Solution:
 
         return min_distance
 ```
+SOLVED
