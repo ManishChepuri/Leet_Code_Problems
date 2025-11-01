@@ -5,6 +5,8 @@
 - This problem is meant for stacks. One good way that you can check if a problem is good for stacks is if it's kinda like tetris where
 you add elements to a list of somesort and then eventually remove a few of the top once once some conditions evaluates to true. In this
 problem, you will keep adding the integers to a list, until you reach an operator where you will then apply that operator on the last two added elements and then the result of that operation, you will then append back onto the list. Keep repeating until all operators are used up and then there will be one element left in the list which is your final answer.
+
+### First Attempt
 ```
 class Solution:
     def evalRPN(self, tokens: List[str]) -> int:
