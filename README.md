@@ -5,4 +5,4 @@ I am using the problems from NeetCode's Blind 75, 150, 250, and All lists. From 
 
 I spend a total of 4 days on each Data Structure or Algorithm category NeetCode specifies.
 
-**Total Problems Completed:** 14
+**Total Problems Completed:** 22
